@@ -1,0 +1,14 @@
+SELECT * FROM `day_one`.`teacher`;
+SELECT * FROM `day_one`.`class`;
+SELECT * FROM `day_one`.`students`;
+SELECT `class`.`1`
+FROM `day_one`.`class`;
+SELECT 
+`class_student`. 324642 FROM `day_one`.`class_student`;
+SELECT 
+`class_student`. 9001 
+FROM `day_one`.`class_student`;
+SELECT 
+`student`. 'b'
+ 
+FROM `day_one`.`student`;
